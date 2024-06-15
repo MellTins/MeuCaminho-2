@@ -1,0 +1,28 @@
+@media(max-width:1000px){
+ .row{
+    display: block;
+    
+    
+ }
+ .historia,.coluna-qua{
+   text-align: center;
+ }
+ .col{
+   width: 95%;
+   align-items: center;
+ }
+ .presente{
+   padding: 0;
+ }
+ td, tr{
+   font: 700 small sans-serif;
+   
+ }
+ .coluna-sonhos{
+   text-align: center;
+ }
+}
+
+/* terminar de deixar responsivo
+fixar o nav na tela
+mudar alguns links de lugar */
